@@ -1,0 +1,6 @@
+[submodule "guts-theater"]
+	path = guts-theater
+	url = https://github.com/mpourismaiel/guts-theater
+[submodule "guts-theater-fe"]
+	path = guts-theater-fe
+	url = https://github.com/mpourismaiel/guts-theater-fe
